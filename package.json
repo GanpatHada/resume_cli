@@ -1,11 +1,23 @@
 {
-  "name": "ganpathada",
+  "name": "ganpat_hada",
   "version": "1.0.0",
-  "description": "Ganpat Hada's Resume - Opens a PDF when run with npx",
+  "description": "Ganpat Hada's Resume - Displayed as formatted terminal text using npx",
   "main": "index.js",
   "bin": {
     "ganpathada": "index.js"
   },
+  "keywords": [
+    "resume",
+    "CLI",
+    "ganpat",
+    "hada",
+    "npx",
+    "terminal",
+    "chalk"
+  ],
   "author": "Ganpat Hada",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
 }
