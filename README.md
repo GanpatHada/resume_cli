@@ -7,4 +7,4 @@ This is a simple CLI tool that opens my resume PDF in the default system PDF vie
 You can run this package directly using `npx` (no installation needed):
 
 ```bash
-npx ganpathada
+npx ganpat_hada
