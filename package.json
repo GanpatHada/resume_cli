@@ -1,0 +1,11 @@
+{
+  "name": "ganpathada",
+  "version": "1.0.0",
+  "description": "Ganpat Hada's Resume - Opens a PDF when run with npx",
+  "main": "index.js",
+  "bin": {
+    "ganpathada": "index.js"
+  },
+  "author": "Ganpat Hada",
+  "license": "MIT"
+}
